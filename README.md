@@ -1,7 +1,7 @@
 # thiradoo
 reactive doggo progress tracker
 # display image of dog with stress level meter
-# enter data based on /r/reactivedogs questionnaire - 
+# set up profile based on /r/reactivedogs questionnaire - 
 What kind of breed is your dog and approximately how much do they weigh?
 
 How old is your dog now?
@@ -40,8 +40,7 @@ How much time will/can you commit to helping your dog work through reactivity?
 
 What sort of equipment do you have? Leashes, collars, harnesses, muzzles, etc. We generally do not recommend aversives on fearful or aggressive dogs because it can make the reactivity worse.
 
-# set up: heart rate in different scenarios (baseline)
+# predictors: heart rate in different scenarios, calming signals in different scenarios, stimulants / triggers, medications, diet, sleep
 
-# enter data -  current stress level, behavior, environment, stimulants present (sights, sounds, smells), time of day
-# diet 
-# your stats: current mood, stressors, goals, challenges, successes, failures, what you are working on, what you are looking forward to, gratitude
+# enter data -  current heart rate, environment, triggers present (sights, sounds, smells), time of day, weather, medications
+# handler profile - current mood, stressors, goals, challenges, successes, failures, what you are working on, what you are looking forward to, gratitude
